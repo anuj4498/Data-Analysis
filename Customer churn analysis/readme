@@ -1,0 +1,25 @@
+# 📉 Customer Churn Analysis
+
+## 📌 Objective
+The goal of this project is to analyze customer data and identify key factors leading to churn. This helps businesses proactively address churn risks and improve customer retention strategies.
+
+## 🛠️ Tools & Technologies
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn (for classification)
+
+## 📊 Key Tasks Performed
+- Cleaned and preprocessed raw churn dataset
+- Performed exploratory data analysis (EDA)
+- Identified correlations between features and churn
+- Built and evaluated machine learning models (Logistic Regression, Decision Tree, etc.)
+- Suggested actionable insights to reduce churn
+
+## 📌 Insights
+- Tenure and service-related features were strong indicators of churn.
+- Customers with multiple services and high monthly charges showed higher churn rates.
+
+## 🧑‍💻 About Me
+I completed this project as part of my data analytics learning path to apply Python skills in solving a real-world business problem.
