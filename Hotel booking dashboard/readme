@@ -1,0 +1,23 @@
+# 🏨 Hotel Booking Analysis Dashboard (Excel)
+
+## 📌 Objective
+To analyze hotel booking data and visualize booking trends, cancellation reasons, and customer preferences using Excel.
+
+## 🛠️ Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Conditional Formatting
+- Charts and Dashboards
+
+## 📊 Key Features
+- Booking status summary
+- Cancellation reason trends
+- Monthly and region-wise booking patterns
+- Interactive dashboard with filters
+
+## 📌 Insights
+- Most cancellations occurred in the city hotel segment.
+- Repeated guests had a lower cancellation rate.
+
+## 🧑‍💻 About Me
+This project helped me demonstrate Excel dashboarding and visualization skills in a real-world hospitality dataset.
