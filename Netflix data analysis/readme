@@ -1,0 +1,22 @@
+# 🎬 Netflix Dataset Analysis using SQL
+
+## 📌 Objective
+To use SQL queries to explore and analyze Netflix’s dataset, uncovering patterns in content type, genre, country distribution, and release trends.
+
+## 🛠️ Tools Used
+- SQL (MySQL / PostgreSQL)
+
+## 📊 Key Tasks Performed
+- Imported and cleaned dataset in a relational database
+- Used SELECT, JOIN, GROUP BY, HAVING, and subqueries
+- Filtered data by country, genre, and release year
+- Identified top genres and production countries
+
+## 📌 Insights
+- The US had the highest number of releases.
+- Documentaries and Dramas were the most common genres.
+- TV Shows have increased significantly post-2015.
+
+## 🧑‍💻 About Me
+This project reflects my ability to perform structured data analysis using SQL to derive business-relevant insights.
+
