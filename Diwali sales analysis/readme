@@ -1,0 +1,22 @@
+# 🛍️ Diwali Sales Analysis
+
+## 📌 Objective
+To analyze sales data during the Diwali season to uncover patterns in customer demographics and buying behavior, helping businesses plan marketing campaigns effectively.
+
+## 🛠️ Tools & Technologies
+- Python
+- Jupyter Notebook
+- Pandas, Matplotlib, Seaborn
+
+## 📊 Key Tasks Performed
+- Cleaned and handled missing values
+- Created demographic segments (age, gender, marital status)
+- Visualized purchase behavior across product categories
+- Identified top-selling products and high-value customers
+
+## 📌 Insights
+- Married women in the age group of 26–35 were the most frequent buyers.
+- Electronics and clothing were the top-selling categories.
+
+## 🧑‍💻 About Me
+This project allowed me to explore customer segmentation and apply EDA techniques to festive sales data using Python.
